@@ -1,13 +1,7 @@
-﻿IF NOT EXISTS
-            (SELECT 1
-            FROM sys.procedures pro
-	        INNER JOIN sys.schemas sch ON sch.schema_id = pro.schema_id
-            WHERE sch.[name] = 'dbo'
-	        AND pro.[name] = 'MySproc')
+﻿IF NOT EXISTS 
+			(SELECT 1
+			FROM sys.schemas sch
+			WHERE sch.[name] = 'MySchema') 
 BEGIN
-    EXECUTE('CREATE PROCEDURE dbo.MySproc AS SELECT NULL')
+	EXEC ('CREATE SCHEMA MySchema AUTHORIZATION dbo')
 END
-GO
-
-ALTER PROCEDURE dbo.MySproc AS
-    SELECT 1
