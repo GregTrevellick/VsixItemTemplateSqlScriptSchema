@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="A20D98B0-87D6-44DB-86FB-6244668BB060" Version="1.11.13" Language="en-US" Publisher="Greg Trevellick" />
+        <Identity Id="BE3DD8C5-2E08-4C95-930A-7ED9FB9B27F6" Version="1.11.14" Language="en-US" Publisher="Greg Trevellick" />
         <DisplayName>SQL Server Schema</DisplayName>
-        <Description xml:space="preserve">An item template for creating / altering a SQL Server Schema.</Description>
+        <Description xml:space="preserve">An item template for creating a SQL Server database schema.</Description>
         <MoreInfo>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSchema</MoreInfo>
         <License>LICENSE.txt</License>
         <GettingStartedGuide>https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSchema</GettingStartedGuide>

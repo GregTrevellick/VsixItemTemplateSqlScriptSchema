@@ -1,6 +1,6 @@
 <!--VSMM readme start-->
 
-A Visual Studio IDE item template for creating / altering SQL Server stored schemas.
+A Visual Studio IDE item template for creating a SQL Server database schema.
 
 After installing this extension a new template will appear in the 'Add New Item' dialog:
 
