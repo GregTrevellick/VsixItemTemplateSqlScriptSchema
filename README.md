@@ -35,10 +35,10 @@
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSchema/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptSchema-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptSchema-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
 
 
 
