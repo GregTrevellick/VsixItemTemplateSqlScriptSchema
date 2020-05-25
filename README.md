@@ -4,7 +4,7 @@
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixItemTemplateSqlScriptSchema?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixItemTemplateSqlScriptSchema)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/)](https://www.codacy.com/project/gtrevellick/VsixItemTemplateSqlScriptSchema/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixItemTemplateSqlScriptSchema&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a9a31fb800d8410584742cd51b999a2c)](https://www.codacy.com/project/gtrevellick/VsixItemTemplateSqlScriptSchema/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixItemTemplateSqlScriptSchema&amp;utm_campaign=Badge_Grade_Dashboard)
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixItemTemplateSqlScriptSchema/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixItemTemplateSqlScriptSchema)
   [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixItemTemplateSqlScriptSchema.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixItemTemplateSqlScriptSchema/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixItemTemplateSqlScriptSchema.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixItemTemplateSqlScriptSchema/context:javascript)
@@ -27,7 +27,7 @@
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSchema&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSchema&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSchema&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSchema&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSchema&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSchema&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSchema)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/rdu96krovrvkacq5?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSchema)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixItemTemplateSqlScriptSchema.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSchema/build/tests)
  [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
